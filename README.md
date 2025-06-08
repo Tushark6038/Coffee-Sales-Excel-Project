@@ -23,7 +23,7 @@ The main goal was to transform raw data into a **clear and interactive dashboard
 - Microsoft Excel (Data Cleaning, Pivot Tables, Charts, Dashboard Design)
 
 ## 📁 Files
-- `Excel_Dashboard.xlsx` – Contains the full cleaned dataset and final dashboard
+- [`Excel_Dashboard.xlsx`](https://github.com/Tushark6038/Coffee-Sales-Excel-Project/blob/fd6156380ee207791ee7c3362edc567bba1c6e28/Cleaned%20Data.xlsx) – Contains the full cleaned dataset and final dashboard
 - `README.md` – You’re here!
 
 ## 📷 Preview
