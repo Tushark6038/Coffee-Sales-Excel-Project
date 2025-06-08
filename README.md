@@ -27,7 +27,7 @@ The main goal was to transform raw data into a **clear and interactive dashboard
 - `README.md` – You’re here!
 
 ## 📷 Preview
-*(Optional: Add a screenshot of your dashboard here)*
+*(https://github.com/Tushark6038/Coffee-Sales-Excel-Project/blob/cedd05219bf2cf0d185c150a2428a462f2ef5ea9/Dashboard.jpg)*
 
 ## 📬 Contact
 If you have any feedback or questions, feel free to reach out!
